@@ -2,7 +2,7 @@
 // C-ENG-C Senior Design 2024 - Line Following CrawlBot
 // Using AFMotor_R4 motor shield + 1 LDR brightness sensor
 // Motors: M1 = Left, M2 = ccenter assist, M3 = right 
-// -----------------------------------------------------------
+// ----------------------------------------------------------- 
 
 #include "AFMotor_R4.h"
 
